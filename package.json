@@ -1,0 +1,18 @@
+{
+    "dependencies": {
+      "aws-sdk": "^2.1578.0",
+      "express": "^4.18.3"
+    },
+    "name": "NFT Art Backend",
+    "version": "1.0.0",
+    "main": "home.js",
+    "type": "module",
+    "scripts": {
+      "start": "nodemon home.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+  }
+  
